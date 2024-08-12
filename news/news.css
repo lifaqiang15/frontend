@@ -1,0 +1,40 @@
+body {
+    font: 16px/28px 'Microsoft Yahei';
+}
+
+h1 {
+    font-weight: 400;
+    text-align: center;
+}
+
+.grey {
+    color: #888;
+    font-size: 12px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.search {
+    color: #666;
+}
+
+.btn {
+    font-weight: bolder;
+}
+
+p {
+    text-indent: 2em;
+}
+
+.pic {
+    /* 图片居中对齐需要让父亲p标签添加水平居中的代码 */
+    text-align: center;
+}
+
+.footer {
+    color: #888;
+    font-size: 12px;
+}
