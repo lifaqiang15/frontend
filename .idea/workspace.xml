@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76258ee1-6a0a-4e4b-aea2-685b91b47ec5" name="Changes" comment="新增新闻页面" />
+    <list default="true" id="76258ee1-6a0a-4e4b-aea2-685b91b47ec5" name="Changes" comment="新增新闻页面">
+      <change afterPath="$PROJECT_DIR$/navbar/images/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar/images/bg11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar/images/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar/images/bg22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar/images/bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar/images/bg33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar/images/bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar/images/bg44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +69,12 @@
     "JavaScript Debug.carousel_image.html.executor": "Run",
     "JavaScript Debug.common.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.navbar.html.executor": "Run",
     "JavaScript Debug.news.html.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/lifaq/Desktop/frontend/news",
+    "last_opened_file_path": "C:/Users/lifaq/Desktop/frontend/navbar/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +86,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lifaq\Desktop\frontend\navbar\images" />
       <recent name="C:\Users\lifaq\Desktop\frontend\news" />
       <recent name="C:\Users\lifaq\Desktop\frontend\comment" />
     </key>
@@ -111,7 +126,7 @@
       <updated>1723306617115</updated>
       <workItem from="1723306619065" duration="114000" />
       <workItem from="1723306740325" duration="2595000" />
-      <workItem from="1723359039384" duration="25080000" />
+      <workItem from="1723359039384" duration="29004000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -241,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723475994703</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="新增新闻页面">
+      <option name="closed" value="true" />
+      <created>1723476285947</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1723476285947</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
