@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76258ee1-6a0a-4e4b-aea2-685b91b47ec5" name="Changes" comment="新增新闻页面">
-      <change afterPath="$PROJECT_DIR$/navbar/images/bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbar/images/bg11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbar/images/bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbar/images/bg22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbar/images/bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbar/images/bg33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbar/images/bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbar/images/bg44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbar/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navbar/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    <list default="true" id="76258ee1-6a0a-4e4b-aea2-685b91b47ec5" name="Changes" comment="新增五彩导航">
+      <change afterPath="$PROJECT_DIR$/product_module/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product_module/product_module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product_module/product_module.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +65,12 @@
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.navbar.html.executor": "Run",
     "JavaScript Debug.news.html.executor": "Run",
+    "JavaScript Debug.product_module.html.executor": "Run",
+    "JavaScript Debug.table.html.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/lifaq/Desktop/frontend/navbar/images",
+    "last_opened_file_path": "C:/Users/lifaq/Desktop/frontend/product_module",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,12 +82,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lifaq\Desktop\frontend\product_module" />
       <recent name="C:\Users\lifaq\Desktop\frontend\navbar\images" />
       <recent name="C:\Users\lifaq\Desktop\frontend\news" />
       <recent name="C:\Users\lifaq\Desktop\frontend\comment" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/frontend/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -100,8 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.news.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.news.html" />
         <item itemvalue="JavaScript Debug.news.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.news.html" />
@@ -126,7 +123,7 @@
       <updated>1723306617115</updated>
       <workItem from="1723306619065" duration="114000" />
       <workItem from="1723306740325" duration="2595000" />
-      <workItem from="1723359039384" duration="29004000" />
+      <workItem from="1723359039384" duration="32321000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -264,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723476285947</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="新增五彩导航">
+      <option name="closed" value="true" />
+      <created>1723560520709</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1723560520709</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +315,8 @@
     <MESSAGE value="轮播图素材" />
     <MESSAGE value="新增评论回车发布" />
     <MESSAGE value="新增新闻页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增新闻页面" />
+    <MESSAGE value="新增五彩导航" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增五彩导航" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/frontend$test.coverage" NAME="test Coverage Results" MODIFIED="1723306704296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
