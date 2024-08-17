@@ -1,0 +1,62 @@
+ul{
+    width: 1080px;
+    height:134px;
+    padding-left:0;
+    position:absolute;
+    left:50%;
+    margin-left:-540px;
+    top:50%;
+    margin-top:-100px;
+}
+
+li{
+    float:left;
+    list-style: none;
+    height: 134px;
+    background:url("abcd.jpg") no-repeat;
+}
+
+.box1{
+    width: 110px;
+    background-position: 0 -268px;
+}
+
+.box2{
+    width: 66px;
+    background-position:-322px -134px;
+}
+
+.box3{
+    width: 95px;
+    background-position:0 -134px;
+}
+
+.box4{
+    width: 110px;
+    background-position:0 0;
+}
+
+.box5{
+    width: 120px;
+    background-position:0 -402px;
+}
+
+.box6{
+    width: 66px;
+    background-position:-322px -134px;
+}
+
+.box7{
+    width: 110px;
+    background-position:0 0;
+}
+
+.box8{
+    width: 120px;
+    background-position:-250px -268px;
+}
+
+.box9{
+    width: 110px;
+    background-position:-95px -134px;
+}
