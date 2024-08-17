@@ -10,7 +10,7 @@
     height: 48px;
     border-radius: 50%;
     overflow: hidden;
-    background: url(./avatar.jpg) no-repeat center / cover;
+    background: url(avatar.jpg) no-repeat center / cover;
     margin-right: 20px;
 }
 
