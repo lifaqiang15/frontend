@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    text-align: center;
+    font-size: 14px;
+}
+
+.box a {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    border: 1px solid #ccc;
+    background-color: #f7f7f7;
+    text-decoration: none;
+    color: #333;
+    line-height: 36px;
+}
+
+.box .prev,
+.box .next {
+    width: 85px;
+}
+
+.box .current,
+.box .elp {
+    border: 0;
+    background-color: #fff;
+}
+
+.box input {
+    outline: none;
+    width: 45px;
+    height: 36px;
+    border: 1px solid #ccc;
+    vertical-align: bottom;
+}
+
+.box button {
+    width: 100px;
+    height: 36px;
+    border: 1px solid #ccc;
+    background-color: #f7f7f7;
+}

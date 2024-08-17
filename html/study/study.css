@@ -82,6 +82,7 @@ a {
     font-size: 14px;
     color: #666;
     padding-left: 15px;
+    outline:none;
 }
 
 .search button {
@@ -98,6 +99,10 @@ a {
     margin-right: 50px;
     font-size: 14px;
     color: #666;
+}
+
+.user img{
+    vertical-align: middle;
 }
 
 .banner {
