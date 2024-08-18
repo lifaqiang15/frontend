@@ -7,10 +7,13 @@ ul{
     margin-left:-540px;
     top:50%;
     margin-top:-100px;
+    text-align: center;
 }
 
 li{
+    display: inline-block;
     float:left;
+    margin:0 auto;
     list-style: none;
     height: 134px;
     background:url("abcd.jpg") no-repeat;
