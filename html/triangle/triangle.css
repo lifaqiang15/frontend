@@ -1,0 +1,40 @@
+.price {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    width: 160px;
+    height: 24px;
+    margin-top: -12px;
+    margin-left:-80px;
+    border: 1px solid red;
+    line-height: 24px;
+}
+
+.new{
+    position: relative;
+    float:left;
+    background-color: red;
+    width: 90px;
+    height: 100%;
+    text-align: center;
+    color:#fff;
+    font-weight: bold;
+    margin-right:8px;
+}
+
+.old{
+    font-size:12px;
+    color:grey;
+    text-decoration: line-through;
+}
+
+.new i{
+    position:absolute;
+    top:0;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-color: transparent #fff transparent transparent;
+    border-width: 24px 10px 0 0;
+    border-style: solid;
+}
